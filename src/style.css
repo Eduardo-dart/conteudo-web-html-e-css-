@@ -1,0 +1,25 @@
+html,body{
+    margin:0;
+    padding: 0;
+
+    background-color: #1c1c1c;
+    color:#ff0000
+}
+
+header{
+    border-bottom:3px red solid;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:13px;
+}
+nav{
+    display:flex;
+    gap:13px;
+}
+
+a{
+    color: red;
+    font-size: 23px;
+    text-decoration:none
+}
